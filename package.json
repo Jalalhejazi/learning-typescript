@@ -4,7 +4,6 @@
   "description": "Introduction to TypeScript",
   "scripts": {
     "deploy": "git add . && git commit -m '.' && git push"
-
   },
   "devDependencies": {
     "ts-node": "",
@@ -13,11 +12,11 @@
   },
   "version": "1.0.0",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://git.itacademy.dk/ecmascript/typescript-learning.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://superusers-kursus@dev.azure.com/superusers-kursus/angular/_git/learning-typescript"
+  }
 }
