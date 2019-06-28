@@ -1,0 +1,23 @@
+{
+  "name": "typescript-learning",
+  "private": true,
+  "description": "Introduction to TypeScript",
+  "scripts": {
+    "deploy": "git add . && git commit -m '.' && git push"
+
+  },
+  "devDependencies": {
+    "ts-node": "",
+    "tslint": "",
+    "typescript": ""
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://git.itacademy.dk/ecmascript/typescript-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

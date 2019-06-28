@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "name": "TypeScript on the serverside",
+  "description": "Nodejs +Express +TypeScript",
+  "keywords": ["TypeScript", "express", "node"]
+  
+}
