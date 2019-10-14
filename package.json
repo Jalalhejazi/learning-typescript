@@ -14,9 +14,5 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://superusers-kursus@dev.azure.com/superusers-kursus/angular/_git/learning-typescript"
-  }
+  "license": "ISC"
 }
