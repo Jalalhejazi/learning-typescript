@@ -18,3 +18,9 @@ class MyClass {
 }
 
 new MyClass().method('Blake', true)
+
+
+// Se useful decorators from nesjs framework for data validation and HTTP Verb
+// https://dev.azure.com/superusers-kursus/typescript/_git/typescript-product-service?path=%2Fsrc%2Fproducts%2Fproducts.controller.ts&version=GBmaster
+
+
