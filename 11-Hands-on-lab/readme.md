@@ -3,7 +3,7 @@
 ```
 1. Get Data from remote address
 	
-    * https://couchdb.itacademy.dk/kursus/2019
+    * https://couchdb.itacademy.dk/kursus/2019 --> (sorry my domain itAcademy is not available....)
 	
     * use fetch.then().then()
 
