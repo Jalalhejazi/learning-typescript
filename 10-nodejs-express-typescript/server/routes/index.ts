@@ -4,7 +4,7 @@ const landingPage: Router = Router();
 
 const data = {
   name: "Jalal Hejazi  @ SuperUers .dk ",
-  titel: "Developer architect" , 
+  titel: "DevOps Engineer" , 
   api : {
     public : "/api/public", 
     about  : "/about" ,
