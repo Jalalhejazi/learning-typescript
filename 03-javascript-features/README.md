@@ -15,3 +15,4 @@ Since TypeScript supports everything in the current ECMAScript specification, we
 9. Spread Operator
 10. Iterators and `for..of`
 11. Decorators
+12. Maps
