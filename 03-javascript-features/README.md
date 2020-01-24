@@ -15,4 +15,7 @@ Since TypeScript supports everything in the current ECMAScript specification, we
 9. Spread Operator
 10. Iterators and `for..of`
 11. Decorators
-12. Maps
+12. Map and forEach
+13. Reduce
+14. Filter
+15. Combining map-reduce-filter in one line of code
