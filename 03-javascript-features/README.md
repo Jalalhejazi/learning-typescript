@@ -4,15 +4,15 @@ Since TypeScript supports everything in the current ECMAScript specification, we
 
 ## Features
 
-1. ES5 (current version) - `function`, `var`, array methods, etc.
-2. `let` and `const`
-3. Classes (Static, Public/Private, Property Types)
-4. Arrow Functions
-5. Template Strings
-6. Object Literals
-7. Destructuring
-8. Default and Rest Parameters
-9. Spread Operator
+01. ES5 (current version) - `function`, `var`, array methods, etc.
+02. `let` and `const`
+03. Classes (Static, Public/Private, Property Types)
+04. Arrow Functions
+05. Template Strings
+06. Object Literals
+07. Destructuring
+08. Default and Rest Parameters
+09. Spread Operator
 10. Iterators and `for..of`
 11. Decorators
 12. Map and forEach
