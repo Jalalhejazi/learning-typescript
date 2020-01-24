@@ -3,8 +3,8 @@
 // TypeScript, of course, supports types through this syntax as well.
 
 const data = {
-  fullName: 'Blake Embrey',
-  email: 'hello@blakeembrey.com',
+  fullName: 'user',
+  email: 'hello@mail.com',
   luckyNumber: 3
 }
 
@@ -23,8 +23,8 @@ console.log(me)
 // Object and array destructuring makes it easier to return multiple pieces of data back to the user too!
 
 function lookup (name: string) {
-  const username = 'blakeembrey'
-  const email = 'hello@blakeembrey.com'
+  const username = 'user'
+  const email = 'hello@mail.com'
 
   return [username, email]
 }
