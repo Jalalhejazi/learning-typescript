@@ -45,6 +45,7 @@ const personnel = [
 	}
 ]
 
+// Our objective: get the total score of force users only (isForceUser: true)
 const totalScore = personnel.reduce((acc, person) => person.isForceUser ? acc + person.pilotingScore + person.shootingScore : acc, 0)
 
 console.log(totalScore)   
