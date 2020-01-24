@@ -1,6 +1,7 @@
-// Working with map()
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 
-// What you have from API
+
+// Input 
 var officers = [
   { id: 20, name: 'Captain Piett' },
   { id: 24, name: 'General Veers' },
