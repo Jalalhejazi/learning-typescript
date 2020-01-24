@@ -6,3 +6,5 @@ const a = 55
 const b = 76
 
 console.log(`${a} ^ ${b} = ${Math.pow(a, b)}`)
+
+// 55 ^ 76 = 1.8516734586485176e+132
