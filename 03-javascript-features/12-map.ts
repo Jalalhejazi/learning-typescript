@@ -1,45 +1,13 @@
 // Working with map()
 
-
-const sweetArray = [2, 3, 4, 5, 35]
-const sweeterArray = sweetArray.map(sweetItem => {
-    return sweetItem * 2
-})
-
-console.log(sweeterArray) // [4, 6, 8, 10, 70]
-
-
-
-//////////////////////////////////////////////////////////
-
-const myUsers = [
-    { name: 'chuloo', likes: 'grilled chicken' },
-    { name: 'chris', likes: 'cold beer' },
-    { name: 'sam', likes: 'fish biscuits' }
-]
-const usersByFood = myUsers.map(item => {
-    const container = {}
-    container[item.name] = item.likes
-    return container
-})
-
-console.log( usersByFood )
-/*
-    {chuloo: "grilled chicken"}
-    {chris: "cold beer"}
-    {sam: "fish biscuits"}
-*/
-
-
-///////////////////////////////////////////////////////////////
-// What you have
+// What you have from API
 var officers = [
   { id: 20, name: 'Captain Piett' },
   { id: 24, name: 'General Veers' },
   { id: 56, name: 'Admiral Ozzel' },
   { id: 88, name: 'Commander Jerjerrod' }
 ]
-// What you need
+// What you need is only officersID
 // [20, 24, 56, 88]
 
 
