@@ -1,3 +1,6 @@
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
+
+
 /*
     array.Reduce()
 
@@ -56,4 +59,6 @@ console.log(totalScore)
     isForceUser: true ==> (71+85)    
     totalScore :  sum ==> 420
 */
+
+
 
