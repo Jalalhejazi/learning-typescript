@@ -38,7 +38,7 @@ Keep in mind that the resulting array will always be the same length as the orig
 
 // forEach is a function that returns void
 
-// map is a function thet returns new Array, then we can continue using the new Array as new map or filter or reduce ...
+// map is a function that returns new Array, then we can continue using the new Array as new map or filter or reduce ...
 
 
 
