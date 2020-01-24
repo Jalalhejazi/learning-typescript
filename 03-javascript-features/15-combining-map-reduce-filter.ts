@@ -54,6 +54,12 @@ const totalScore = personnel
 console.log(totalScore) // 420
 
 
+/* 
+    Try to replace some of your for loops with .map(), .reduce(), .filter() where it seems to fit. 
+    I guarantee your code will be way less clunky and much easier to read.
+*/
+
+
 
 
 
