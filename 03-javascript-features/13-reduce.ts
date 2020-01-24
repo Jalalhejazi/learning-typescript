@@ -1,7 +1,9 @@
 /*
+    array.Reduce()
+
     Just like .map(), .reduce() also runs a callback for each element of an array. 
     What’s different here is that reduce passes the result of this callback (the accumulator) from one array element to the other.
-    The accumulator can be pretty much anything (integer, string, object, etc.) and must be instantiated or passed when calling .reduce().
+    The accumulator can be pretty much anything (integer, string, object, etc.) and must be instantiated or passed when calling .reduce()
 */
 
 
@@ -45,5 +47,12 @@ const personnel = [
 
 const totalScore = personnel.reduce((acc, person) => person.isForceUser ? acc + person.pilotingScore + person.shootingScore : acc, 0)
 
-console.log(totalScore)   //420
+console.log(totalScore)   
+
+/*
+    isForceUser: true ==> (98+56) 
+    isForceUser: true ==> (43+67) 
+    isForceUser: true ==> (71+85)    
+    totalScore :  sum ==> 420
+*/
 
