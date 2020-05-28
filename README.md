@@ -22,6 +22,8 @@
 
 **Always** use `let` and `const` over `var`, with `const` preferred over `let`. TypeScript will handle this properly and the compiler will error if `const` is being reassigned. `const` and `let` are introduced in Chapter 3.
 
+**Always Review [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices)**
+
 ## References
 
 * [TypeScript What's New](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript)
