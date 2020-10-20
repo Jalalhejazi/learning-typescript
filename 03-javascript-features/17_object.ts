@@ -1,4 +1,11 @@
-var user = {
+/*
+var old_school_way = new Object()
+    old_school_way.name   = ""
+    old_school_way.gender = ""
+    old_school_way.job    = ""
+*/
+
+let user = {
     name : "Jalal",
     gender : "👨‍⚕️",
     job  : "DevOps Engineer"
