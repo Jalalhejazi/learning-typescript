@@ -27,3 +27,26 @@ Object.entries(user)
     1: ["gender", "👨‍⚕️"]
     2: ["job", "DevOps Engineer"]
 */
+
+
+
+// Available appLanguages
+const appLanguages = {
+  'en-US': 'English',
+  'de-DE': 'Deutsch',
+  'es-ES': 'Español',
+  'fr-FR': 'Français',
+  'ja-JP': '日本語',
+  'ko-KR': '한국어',
+  'pl-PL': 'Polski',
+  'pt-BR': 'Português Brasileiro',
+  'uk-UA': 'Українська',
+  'zh-TW': '中文(臺灣)',
+}
+const appLanguageKeys = Object.keys(appLanguages)
+
+
+
+
+
+
