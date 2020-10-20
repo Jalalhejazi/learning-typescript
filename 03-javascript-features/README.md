@@ -19,3 +19,6 @@ Since TypeScript supports everything in the current ECMAScript specification, we
 13. Reduce
 14. Filter
 15. Combining map-reduce-filter in one line of code
+16. Set() to remove duplicates
+17. Object() everything in JavaScript is made of Object
+
