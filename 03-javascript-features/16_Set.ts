@@ -12,9 +12,16 @@ const array = ['00','00','1','1','2','2','3','00','00']
 const unique_set = [...new Set(array)]
  
 
-
-
-// Using Filter to remove dublicates
+// Set() is using Filter to remove dublicates
 array.filter( (value,index) => array.indexOf(value) === index)
+
+
+// from set back to Array
+let array_1 = [...unique_set]
+
+let array_2 = Array.from(new Set(array))
+
+
+
 
 
