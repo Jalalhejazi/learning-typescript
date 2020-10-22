@@ -2,7 +2,7 @@
 
 
 // Input 
-var officers = [
+let officers = [
   { id: 20, name: 'Captain Piett' },
   { id: 24, name: 'General Veers' },
   { id: 56, name: 'Admiral Ozzel' },
