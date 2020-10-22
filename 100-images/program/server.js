@@ -2,8 +2,6 @@
 // 
 // TODO: use modern EcmaScript Language Feature to make this program more 2020 friendly
 // - remove semi-colons
-// - use const or let instead of const
-// - use arrow-function => instead of function(){}
 // - use TemplateString 
 // - What if you rename the file from server.js to server.ts  :-) 
 // - etc......
