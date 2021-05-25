@@ -20,6 +20,8 @@ TypeScript exposes the JavaScript primitives, as well as a couple of extra types
 * `void` - no type, effectively `undefined`.
 * `() => any` - the type is a function that returns `any`.
 
+[TypeScript Basic Types](https://dev.azure.com/superusers-kursus/typescript/_git/typescript-language?path=%2FREADME.md&_a=preview)
+
 ## Type Inferencing
 
 Type inferencing is used when the type is not provided explicitly. For instance, using `var x = 10`, TypeScript can infer that `x` is a number.
