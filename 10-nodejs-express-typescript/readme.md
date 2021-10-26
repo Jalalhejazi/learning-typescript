@@ -15,7 +15,7 @@ npm run start
 ## How to create a docker image from a dockerfile
 
 ```
-docker build --tag jalalhejazi/nodejs2019 .
+docker build --tag jalalhejazi/nodejs2021 .
 
 ```
 
@@ -23,9 +23,9 @@ docker build --tag jalalhejazi/nodejs2019 .
 ## How to run a docker image as "service|container"
 
 ```
-docker run -d -p 8000:1234 jalalhejazi/nodejs2019
-docker run -d -p 8001:1234 jalalhejazi/nodejs2019
-docker run -d -p 8002:1234 jalalhejazi/nodejs2019
+docker run -d -p 8000:1234 jalalhejazi/nodejs2021
+docker run -d -p 8001:1234 jalalhejazi/nodejs2021
+docker run -d -p 8002:1234 jalalhejazi/nodejs2021
 
 ```
 
@@ -42,9 +42,9 @@ now browse to
 
 docker login
 
-docker build --tag jalalhejazi/nodejs2019 .
+docker build --tag jalalhejazi/nodejs2021 .
 
-docker push jalalhejazi/nodejs2019
+docker push jalalhejazi/nodejs2021
 
 ```
 
