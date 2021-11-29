@@ -3,7 +3,7 @@
 TypeScript is a compile-to-JS language. All code you write, in TypeScript, will eventually be executed by a JavaScript runtime. This could be a browser or server environment, such as Chrome or Node.js. To get the most out of using TypeScript, you'll want a few things:
 
 * A TypeScript compatible IDE ([Atom](https://github.com/TypeStrong/atom-typescript), VSCode, [Sublime Text](https://github.com/Microsoft/TypeScript-Sublime-Plugin) and others!)
-* Some build pipeline for compilation (E.g. Using the compiler itself - `npm install typescript`)
+* Some build pipeline for compilation (E.g. Using the compiler itself - `npm install typescript --global `)
 
 After this, you should create a `tsconfig.json` file to manage the TypeScript project. This file can be empty, for now, which will add all TypeScript files in the directory to the compiler.
 
