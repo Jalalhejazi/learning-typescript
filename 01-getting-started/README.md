@@ -14,8 +14,11 @@ mkdir dev
 
 cd $home\dev
 
-# auto create tsconfig.json
+# auto create tsconfig.json (tsc)
 tsc --init 
+
+# Auto create package (npm)
+npm init --yes
 
 ```
 
