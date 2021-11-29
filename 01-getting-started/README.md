@@ -7,6 +7,20 @@ TypeScript is a compile-to-JS language. All code you write, in TypeScript, will 
 
 After this, you should create a `tsconfig.json` file to manage the TypeScript project. This file can be empty, for now, which will add all TypeScript files in the directory to the compiler.
 
+
+```powershell
+cd $home
+mkdir dev
+
+cd $home\dev
+
+# auto create tsconfig.json
+tsc --init 
+
+```
+
+
+
 ## TypeScript Goals
 
 TypeScript has a page on [design goals](https://github.com/Microsoft/TypeScript/wiki/TypeScript-Design-Goals) which essentially boil down to the following points:
